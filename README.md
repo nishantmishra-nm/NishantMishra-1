@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nishant Mishra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Analyst & Frontend Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantmishra-1&label=Profile%20views&color=0e75b6&style=flat" alt="nishantmishra-1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantmishra-1&label=Profile%20views&color=0e75b6&style=flat" alt="nishantmishra-nm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishantmishra-1" alt="nishantmishra-1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishantmishra-nm" alt="nishantmishra-nm" /></a> </p>
 
-- 🔭 I’m currently working on **Kloudclub.com**
+- 🔭 I’m currently working on **Tribeni Engineering**
 
-- 🌱 I’m currently learning **ReactJs,Android Studio,Nodejs**
+- 🌱 I’m currently learning **Python,PowerBI,Machine Learning**
 
-- 📝 I regularly write articles on [https://covidfoodmall.in/](https://covidfoodmall.in/)
-
-- 💬 Ask me about **c,java,python**
+- 💬 Ask me about **java,python,sql,excel**
 
 - 📫 How to reach me **nishantmishra8874@gmail.com**
 
